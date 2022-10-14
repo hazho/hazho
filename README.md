@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![hazho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazho)](https://github.com/anuraghazra/github-readme-stats)
+[![hazho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazho)](https://github.com/hazho/github-readme-stats)
 
 
 - 🔭 I’m currently working on:
